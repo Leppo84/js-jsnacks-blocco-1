@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(205, 205, 205);
-    text-align: center;
+    background-color: rgb(191, 219, 174);
 }
 
-main {
-    margin-top: 50px;
+header {
+    margin: 50px 0 20px;
+    text-align: center;
 }
 
 #list_output {
@@ -13,5 +13,5 @@ main {
 
 li {
     margin: 6px;
-    line-height: 30px;
+    line-height: 22px;
 }
