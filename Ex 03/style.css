@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(205, 205, 205);
+    text-align: center;
+}
+
+main {
+    margin-top: 50px;
+}
+
+#list_output {
+    margin-left: 50px;
+}
+
+li {
+    margin: 6px;
+    line-height: 30px;
+}
